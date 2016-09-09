@@ -21,6 +21,7 @@ A collection of useful tools, software and plugins.
 1. Meld diff merge
 2. Giggle
 3. Terminator
+	-	Terminator + Oh My ZSH with Agnoster Theme [https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a](https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a)
 4. Password-Gorilla
 5. Dropbox
 6. Unity Tweak
