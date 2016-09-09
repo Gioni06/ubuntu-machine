@@ -25,6 +25,7 @@ A collection of useful tools, software and plugins.
 4. Password-Gorilla
 5. Dropbox
 6. Unity Tweak
+7. MySql Workbench
 
 #### Browser
 
