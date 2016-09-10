@@ -1,22 +1,33 @@
 # Ubuntu Machine
 A collection of useful tools, software and plugins.   
 
-#### Table of contents
+## Table of contents
 
-1. Software
-2. Blogs
+<!-- MarkdownTOC depth=0 -->
+
+- Software
+	- Editors and IDE
+	- Tools
+	- Browser
+	- Package Management
+	- Communication
+	- Misc
+- Fonts
+- Blogs
+
+<!-- /MarkdownTOC -->
 
 
-## Software 
+## Software
 
-#### Editors and IDE
+### Editors and IDE
 
 1. PHPStrom
 2. Sublime Text
     - Markdown Highlighter
     - Markdown Preview
 
-#### Tools
+### Tools
 
 1. Meld diff merge
 2. Giggle
@@ -27,18 +38,18 @@ A collection of useful tools, software and plugins.
 6. Unity Tweak
 7. MySql Workbench
 
-#### Browser
+### Browser
 
 1. Chromium
 2. Firefox
 
-#### Package Management
+### Package Management
 
 1. Synaptic Package Manager
     - Xapian `sudo apt-get xapian` + `sudo update-apt-xapian-index -vf`
 2. GDebi Package Manager ( Ubuntu 16.04 has a bug with some some `.deb` Packages )
  
-#### Communication
+### Communication
 
 1. Thunderbird
     - Lightning Calendar Plugin
@@ -46,10 +57,12 @@ A collection of useful tools, software and plugins.
 2. Slack
 3. Skype
 
-#### Misc
+### Misc
 
 1. Move Unity Dock
 	- `gsettings set com.canonical.Unity.Launcher launcher-position Left`
+2. Enable HDMI Sound output
+	- `sudo adduser $USER audio`	
 
 ## Fonts
 
