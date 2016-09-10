@@ -46,6 +46,11 @@ A collection of useful tools, software and plugins.
 2. Slack
 3. Skype
 
+#### Misc
+
+1. Move Unity Dock
+	- `gsettings set com.canonical.Unity.Launcher launcher-position Left`
+
 ## Fonts
 
 1[http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/) - Coding Font
