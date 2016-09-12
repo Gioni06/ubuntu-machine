@@ -65,10 +65,12 @@ A collection of useful tools, software and plugins.
 	- `gsettings set com.canonical.Unity.Launcher launcher-position Left`
 2. Enable HDMI Sound output
 	- `sudo adduser $USER audio`	
+3. List 5 most used commands
+	- `history | awk '{print $2};' | sort | uniq -c | sort -rn | head -5`
 
 ## Fonts
 
-1[http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/) - Coding Font
+1. [http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/) - Coding Font
 
 ## Blogs
 
