@@ -70,9 +70,11 @@ A collection of useful tools, software and plugins.
 
 1. Move Unity Dock
 	- `gsettings set com.canonical.Unity.Launcher launcher-position Left`
-2. Enable HDMI Sound output
+2. Enable icon click to minimize applications
+	- `gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ launcher-minimize-window true`
+3. Enable HDMI Sound output
 	- `sudo adduser $USER audio`	
-3. List 5 most used commands
+4. List 5 most used commands
 	- `history | awk '{print $2};' | sort | uniq -c | sort -rn | head -5`
 
 <a name="fonts"></a>
