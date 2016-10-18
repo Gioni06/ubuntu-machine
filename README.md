@@ -63,7 +63,8 @@ A collection of useful tools, software and plugins.
     - Exchange Plugin [https://github.com/Ericsson/exchangecalendar/](https://github.com/Ericsson/exchangecalendar/)
     - Provider For Google Calendar *Note - Exchange Plugin needs to be disabled in order to setup Google Calendars (possible bug).*
 2. Slack
-3. Skype
+3. ScudCloud (alternative Slack client) [https://github.com/raelgc/scudcloud/](https://github.com/raelgc/scudcloud/)
+4. Skype
 
 <a name="misc"></a>
 ### Misc
