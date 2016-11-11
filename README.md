@@ -77,6 +77,8 @@ A collection of useful tools, software and plugins.
 	- `sudo adduser $USER audio`	
 4. List 5 most used commands
 	- `history | awk '{print $2};' | sort | uniq -c | sort -rn | head -5`
+5. List most recently installed packages
+	- `grep " install " /var/log/dpkg.log`	
 
 <a name="fonts"></a>
 ## Fonts
